@@ -1,0 +1,26 @@
+{
+  "name": "pug-injected",
+  "version": "1.0.0",
+  "description": "Mixins for inject child blocks in parent mixin",
+  "main": "./jade-injected.pug",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intelrug/pug-injected.git"
+  },
+  "author": "Svyatoslav Fyodorov <intelrug@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "pug",
+    "mixin",
+    "inject",
+    "blocks",
+    "block",
+    "multiple"
+  ],
+  "devDependencies": {
+    "pug": "^2.0.4"
+  }
+}
